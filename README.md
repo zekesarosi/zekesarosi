@@ -9,4 +9,4 @@
 - 🌍 I'm mostly active within the **Arch Linux Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **linux**, **python**, **electronics**, **arduino / particle**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
+- 📫 Reach me: mailto:zeke.saorsi@gmail.com
