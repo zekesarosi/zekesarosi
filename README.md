@@ -10,5 +10,3 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **linux**, **python**, **electronics**, **arduino / particle**
 - 📫 Reach me: zeke.saorsi@gmail.com
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=zekesarosi)
