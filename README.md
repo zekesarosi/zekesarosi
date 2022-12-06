@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently studying at University of Colorado Boulder**
+- 🏢 I'm currently studying at **University of Colorado Boulder**
 - ⚙️ I use daily: `.py`, `.cpp`, `.sh`, `.ino`, `.m`, `.docx`
 - 🌍 I'm mostly active within the **Arch Linux Community**
 - 🌱 Learning all about **Open Source**
