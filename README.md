@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a First Year Aerospace Engineering Student
+#### I'm a First Year **Aerospace Engineering Student**
 
 ##### BIO
 
