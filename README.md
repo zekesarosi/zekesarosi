@@ -8,5 +8,5 @@
 - ⚙️ I use daily: `.py`, `.cpp`, `.sh`, `.ino`, `.m`, `.docx`
 - 🌍 I'm mostly active within the **Arch Linux Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **linux**, **python**, **electronics**, **arduino / particle**, building **computers**, and **networking**
+- 💬 Always love to talk about **linux**, **python**, **electronics**, **arduino / particle**, building **computers**, and **networking**
 - 📫 Reach me: zeke.saorsi@gmail.com
