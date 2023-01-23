@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a First Year Aerospace Engineering Student at University of Colorado Bolder.
+#### I'm a First Year Aerospace Engineering Student
 
 ##### BIO
 
