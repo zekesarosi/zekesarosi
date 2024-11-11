@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Second Year **Aerospace Engineering Student**
+#### I'm a Third Year **Aerospace Engineering Student**
 
 ##### BIO
 
