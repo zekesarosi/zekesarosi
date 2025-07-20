@@ -9,4 +9,4 @@
 - 🌍 I'm mostly active within the **Arch Linux Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Always love to talk about **linux**, **python**, **electronics**, **arduino / particle**, building **computers**, and **networking**
-- 📫 Reach me: zeke.saorsi@gmail.com
+- 📫 Reach me: zeke.sarosi@gmail.com
